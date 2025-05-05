@@ -1,4 +1,4 @@
-<h1>Simple_Game_Engine_with_Python</h1>
+<h1>Django_python_Web</h1>
 
 <h2>Description</h2>
 GothonWeb is a beginner-friendly Django web application designed to demonstrate the fundamentals of Django's MVC (Model-View-Template) architecture. This project was originally inspired by a small web.py script and refactored to use Django, showcasing how to transition from simple web frameworks to full-featured web development with Django.
